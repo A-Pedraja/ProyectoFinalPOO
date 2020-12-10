@@ -6,7 +6,6 @@ Hola Profesor, vamos a detallarle ciertos detalles del proyecto
 Estudiante
 Usuario:Francisco
 Contraseña:U20FRANCI
-
 Profesor
 Usuario:Armando
 Contraseña:Pr0gorob
