@@ -1,6 +1,9 @@
 # ProyectoFinalPOO
 
 Hola Profesor, vamos a detallarle ciertos detalles del proyecto
+
+
+
 --------CLAVES--------
 Estudiante
 Usuario:Francisco
